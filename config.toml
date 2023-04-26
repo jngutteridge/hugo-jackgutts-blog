@@ -1,0 +1,29 @@
+baseURL = ""
+languageCode = "en-GB"
+title = "Jack Gutts"
+theme = "paper"
+
+[params]
+  author = "Jack Gutteridge"
+  color = "gray"
+  twitter = "jackgutts"               # twitter.com/YOUR_TWITTER_ID
+  instagram = "jackgutts"           # instagram.com/YOUR_INSTAGRAM_ID
+  mastodon = "https://hachyderm.io/@jackgutts"           # e.g. 'https://mastodon.instance/@xxx'
+  rss = true
+  monoDarkIcon = true
+  dateFormat = "2nd January 2006"
+  show_reading_time = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
