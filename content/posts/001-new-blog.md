@@ -1,7 +1,7 @@
 ---
 title: "I've Started a New Blog..."
 date: 2023-03-15
-tags: ["Blog", "Writing"]
+tags: ["Writing"]
 category: "General"
 slug: "new-blog"
 ---

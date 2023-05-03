@@ -1,7 +1,7 @@
 ---
 title: "I'm In the Process of Hosting a Blog..."
 date: 2023-04-26
-tags: ["Blog", "Writing"]
+tags: ["Software Development", "Writing"]
 category: "General"
 slug: "the-process-of-hosting-a-blog"
 ---
