@@ -1,14 +1,16 @@
 baseURL = "/"
 languageCode = "en-GB"
 title = "Jack Gutts"
-theme = "paper"
+theme = "jackgutts"
 
 [params]
   author = "Jack Gutteridge"
   color = "gray"
-  twitter = "jackgutts"               # twitter.com/YOUR_TWITTER_ID
-  instagram = "jackgutts"           # instagram.com/YOUR_INSTAGRAM_ID
+  twitter = "https://twitter.com/jackgutts"               # twitter.com/YOUR_TWITTER_ID
+  instagram = "https://instagram.com/jackgutts"           # instagram.com/YOUR_INSTAGRAM_ID
   mastodon = "https://hachyderm.io/@jackgutts"           # e.g. 'https://mastodon.instance/@xxx'
+  soundcloud = "https://soundcloud.com/jackgutts"
+  email = "mailto:jack@kingbrick.co.uk"
   rss = true
   monoDarkIcon = true
   dateFormat = "2nd January 2006"

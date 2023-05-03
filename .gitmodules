@@ -1,3 +1,3 @@
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/jngutteridge/hugo-paper-jackgutts
+[submodule "themes/jackgutts"]
+	path = themes/jackgutts
+	url = https://github.com/jngutteridge/hugo-jackgutts-theme
