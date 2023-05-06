@@ -1,5 +1,5 @@
 ---
-title: "'Bleeding' Demo"
+title: "‘Bleeding’ Demo"
 date: 2023-03-27
 tags: ["Alternative Rock", "Demo", "Songwriting"]
 category: "Music"

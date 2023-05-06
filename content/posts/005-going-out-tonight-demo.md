@@ -1,5 +1,5 @@
 ---
-title: "'Going Out Tonight' Demo"
+title: "‘Going Out Tonight’ Demo"
 date: 2023-03-30
 tags: ["Alternative Rock", "Demo", "Songwriting"]
 category: "Music"

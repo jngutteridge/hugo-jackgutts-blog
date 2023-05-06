@@ -1,5 +1,5 @@
 ---
-title: "'Grief' by Polar Bites"
+title: "‘Grief’ by Polar Bites"
 date: 2023-03-16
 tags: ["Alternative Rock", "Songwriting"]
 category: "Music"
