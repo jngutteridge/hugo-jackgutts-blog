@@ -6,7 +6,7 @@ theme = "jackgutts"
 [params]
   author = "Jack Gutteridge"
   color = "gray"
-  twitter = "https://twitter.com/jackgutts"               # twitter.com/YOUR_TWITTER_ID
+  threads = "https://www.threads.net/@jackgutts"
   instagram = "https://instagram.com/jackgutts"           # instagram.com/YOUR_INSTAGRAM_ID
   mastodon = "https://hachyderm.io/@jackgutts"           # e.g. 'https://mastodon.instance/@xxx'
   soundcloud = "https://soundcloud.com/jackgutts"

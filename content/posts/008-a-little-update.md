@@ -10,7 +10,7 @@ I have managed some idle time playing through the classic Sonic series with a fr
 
 I have another project brewing in the background. I rehearsed with King Brick a few weeks ago. The idea was to see if it was viable to play a gig at my birthday later in the year. It seems like it’ll work. There is a lot more preparation and practice required, but I’m looking forward to it.
 
-Work has been busy which I like, although at times stressful. I’ve felt great with my output in recent weeks and I’m coming to the end of a six month project. I also need to update my personal VPN and do something about it. It’s on an older version of Ubuntu than I’d like. I need to wipe it and start again, but I need to catalogue what’s on it so I can back it up safely.
+Work has been busy which I like, although at times stressful. I’ve felt great with my output in recent weeks and I’m coming to the end of a six month project. I also need to update my personal VPS and do something about it. It’s on an older version of Ubuntu than I’d like. I need to wipe it and start again, but I need to catalogue what’s on it so I can back it up safely.
 
 I always try to keep a busy social calendar. The open mics are part of this, and I’ve met some great friends attending gigs around the county. I’m very lucky to have a big friendship circle and always have a few evenings in the week spent with friends.
 
