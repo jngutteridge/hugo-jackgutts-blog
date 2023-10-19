@@ -1,10 +1,9 @@
 ---
-title: "‘Bleeding’ Demo"
+title: "‘Bleeding’ demo"
 date: 2023-03-27
-tags: ["Alternative Rock", "Demo", "Songwriting"]
+tags: ["Alternative rock", "Demo", "Songwriting"]
 category: "Music"
 ---
-
 I’ve written my first song of 2023, after a bit of a dry patch. ‘Bleeding’ is a love song about illness and care, and goes out to my amazing girlfriend.
 
 [Listen to ‘Bleeding’ on SoundCloud](https://soundcloud.com/jackgutts/bldng-230310).

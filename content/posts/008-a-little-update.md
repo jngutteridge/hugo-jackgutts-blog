@@ -1,5 +1,5 @@
 ---
-title: "A Little Update"
+title: "A little update"
 date: 2023-07-22
 tags: ["Writing"]
 category: "General"

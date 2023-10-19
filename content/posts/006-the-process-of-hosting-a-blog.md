@@ -1,11 +1,10 @@
 ---
-title: "I'm In the Process of Hosting a Blog..."
+title: "I'm in the process of hosting a blog"
 date: 2023-04-26
-tags: ["Software Development", "Writing"]
+tags: ["Software development", "Writing"]
 category: "General"
 slug: "the-process-of-hosting-a-blog"
 ---
-
 As a developer I’m fortunate to be able to host and code my own blog, but that isn’t what I wanted to do. Initially I launched this blog on WordPress.com. I assumed the benefits would be huge and I could get on with writing.
 
 ## It would be no hassle

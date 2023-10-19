@@ -1,11 +1,10 @@
 ---
-title: "I've Started a New Blog..."
+title: "I've started a New blog"
 date: 2023-03-15
 tags: ["Writing"]
 category: "General"
 slug: "new-blog"
 ---
-
 Welcome to my new blog. I’m Jack, a musician and software engineer. I live in Leicester in the UK.
 
 I’ve started a blog to write about my creative projects. My current project is Polar Bites – a collection of alternative rock songs I’ve written and recorded. I released my first album in 2021. [Grief is available on Bandcamp](https://polarbites.bandcamp.com/album/grief). I’m working on my second album and hoping to release it in the coming months.

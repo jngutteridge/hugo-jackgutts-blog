@@ -1,7 +1,7 @@
 ---
-title: "‘Peaceless’ Demo"
+title: "‘Peaceless’ demo"
 date: 2023-05-06
-tags: ["Alternative Rock", "Demo", "Songwriting"]
+tags: ["Alternative rock", "Demo", "Songwriting"]
 category: "Music"
 ---
 ‘Peaceless’ started off with the title ‘Speechless’. The brief was about losing my voice and asking for help, but it turned into another moan. It’s another cry for help in a situation bathed in illness.

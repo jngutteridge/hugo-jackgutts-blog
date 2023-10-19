@@ -1,10 +1,9 @@
 ---
-title: "‘Going Out Tonight’ Demo"
+title: "‘Going Out Tonight’ demo"
 date: 2023-03-30
-tags: ["Alternative Rock", "Demo", "Songwriting"]
+tags: ["Alternative rock", "Demo", "Songwriting"]
 category: "Music"
 ---
-
 Now I’m back in the saddle! ‘Going Out Tonight’ is a tribute to our old selves. It’s a story about heading into town with friends in our early twenties, written as a mock King Brick song circa 2008. It’s an imagining the voice and tone of band’s early days.
 
 It starts off with a punky riff, something not alien to listeners of The Offspring. It descends into vocal chaos (much emphasised by my poor singing attempt on the demo) before hitting a chorus that would fit right in with The Arctic Monkeys or We Are Scientists.

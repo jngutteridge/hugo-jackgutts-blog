@@ -1,10 +1,9 @@
 ---
 title: "‘Grief’ by Polar Bites"
 date: 2023-03-16
-tags: ["Alternative Rock", "Songwriting"]
+tags: ["Alternative rock", "Songwriting"]
 category: "Music"
 ---
-
 In 2019 after a long absence from songwriting, I spat out a couple of tracks. I had recorded [a cover of ‘Revolution’ by The Beatles](https://soundcloud.com/jackgutts/revolution-the-beatles) in the style of [Biffy Clyro covering Franz Ferdinand](https://www.youtube.com/watch?v=OnrS2Fy5jgc). To call the track far-fetched would be an understatement. I wanted to reuse some of the motifs. The resulting song was ‘Tone Control’.
 
 Prior to that I was demoing a song for King Brick. It was called ‘Time Rot’. I had a few old songs I wanted the band to learn but they didn’t take the bait. ‘Time Rot’ was one of the tracks that they didn’t hate.
