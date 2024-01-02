@@ -18,7 +18,7 @@ You can see my efforts on the [Bespoke Media website](https://www.bespokemedia.n
 
 The design of the website needs some love. The fonts are too small on bigger screens and the layout is dull. It doesn’t do much but to be honest there isn’t much I need it to do. It’s got a contact button on it and that’s enough.
 
-I’d like to look at ways of plugging dynamic content into a static site - something like an API that provides content rather than using static Markdown files. There’s a lot to like about using flat files to serve content. Version control with GIT and the ability to use any editor of choice are a couple of examples I can think of. But I miss the simplicity from the user’s side about having a CMS as a service that one can use at any time and any place, without needing access to version control software and manually syncing the files as I currently do.
+I’d like to look at ways of plugging dynamic content into a static site - something like an API that provides content rather than using static Markdown files. There’s a lot to like about using flat files to serve content. Version control with Git and the ability to use any editor of choice are a couple of examples I can think of. But I miss the simplicity from the user’s side about having a CMS as a service that one can use at any time and any place, without needing access to version control software and manually syncing the files as I currently do.
 
 I’d like to think about adding a continuous integration pipeline too. Something where I can press a button and have the site deploy itself.
 
