@@ -2,6 +2,8 @@
 title: 'About'
 ---
 
+![Jack playing guitar](/img/jack-guitar-profile.jpg)
+
 I’m Jack. I’m a musician and software developer based in Leicester in the UK. This is a blog about my creative projects.
 
 For my musical projects, I use [SoundCloud](https://soundcloud.com/jackgutts) to upload demos. I release music on [Bandcamp](https://polarbites.bandcamp.com/) under the alias Polar Bites.
