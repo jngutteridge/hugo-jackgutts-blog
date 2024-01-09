@@ -1,8 +1,11 @@
 ---
-title: "A little update"
+title: Moving house
 date: 2023-07-22
-tags: ["Writing"]
-category: "General"
+tags:
+  - Writing
+categories:
+  - Life
+slug: a-little-update
 ---
 No one has probably noticed but I’ve been quiet on this blog. I’m in between moving houses. This is always a fun time (sarcasm intended) and one that distracts me from any creative projects or idle time. I’ve still been attending regular open mics and have squeezed enough time in to rehearse a few sets for them. I haven’t been writing new music, which is a shame.
 

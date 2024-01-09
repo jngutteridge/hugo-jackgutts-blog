@@ -1,8 +1,11 @@
 ---
-title: "‘Grief’ by Polar Bites"
+title: ‘Grief’ by Polar Bites
 date: 2023-03-16
-tags: ["Alternative rock", "Songwriting"]
-category: "Music"
+tags: 
+  - Alternative rock
+  - Songwriting
+categories:
+  - Music
 ---
 In 2019 after a long absence from songwriting, I spat out a couple of tracks. I had recorded [a cover of ‘Revolution’ by The Beatles](https://soundcloud.com/jackgutts/revolution-the-beatles) in the style of [Biffy Clyro covering Franz Ferdinand](https://www.youtube.com/watch?v=OnrS2Fy5jgc). To call the track far-fetched would be an understatement. I wanted to reuse some of the motifs. The resulting song was ‘Tone Control’.
 

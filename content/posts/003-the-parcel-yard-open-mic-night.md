@@ -1,8 +1,11 @@
 ---
-title: "The Parcel Yard open mic night"
+title: The Parcel Yard open mic night
 date: 2023-03-17
-tags: ["Leicester", "Open mic nights"]
-category: "Music"
+tags:
+  - Leicester
+  - Open mic nights
+categories:
+  - Music
 ---
 Every third Thursday of the month I host an open mic at Leicester’s Parcel Yard. Last night was our March event and it was great to see so much talent and support.
 

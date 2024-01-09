@@ -1,8 +1,11 @@
 ---
-title: "The state of social media"
+title: The annoyance of losing Twitter
 date: 2023-10-21
-tags: ["Software development"]
-category: "General"
+tags:
+  - Software development
+categories:
+  - Software
+slug: the-state-of-social-media
 ---
 Twitter was a great place. I loved catching up with everyone's updates. It painted a good picture for the most part.
 

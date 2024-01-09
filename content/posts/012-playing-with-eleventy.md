@@ -1,8 +1,11 @@
 ---
-title: "Playing with Eleventy"
+title: Using Eleventy to quickly build a website
 date: 2023-12-21
-tags: ["Software development"]
-category: "Software"
+tags:
+  - Software development
+categories:
+  - Software
+slug: playing-with-eleventy
 ---
 It took me a surprisingly short time to make and build a website using [Eleventy](https://www.11ty.dev/). It’s a simple static site generator for Node JS and it brags about being quick and easy to grasp. From my brief experience, that bragging was wholly justified.
 

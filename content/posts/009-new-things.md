@@ -1,8 +1,11 @@
 ---
-title: "New things"
+title: We have moved house!
 date: 2023-10-10
-tags: ["Writing"]
-category: "General"
+tags:
+  - Writing
+categories:
+  - Life
+slug: new-things
 ---
 I am very happy that my house move which has dominated the majority of my 2023 is nearly done. It seems like a long time ago we had the idea to move. In January me and my girlfriend made the decision to start this project. Since then it’s been all go with admin and moving stuff.
 

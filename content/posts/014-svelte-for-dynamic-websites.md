@@ -1,8 +1,10 @@
 ---
-title: "Svelte for dynamic websites and server rendering"
+title: Svelte for dynamic websites and server rendering
 date: 2024-01-09
-tags: ["Software development"]
-category: "Software"
+tags:
+  - Software development
+categories:
+  - Software
 ---
 Over the weekend I received an opportunity from a friend to build a website for a choir. I got straight to work looking for an appropriate framework to use for web development in 2024.
 

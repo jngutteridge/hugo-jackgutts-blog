@@ -1,8 +1,12 @@
 ---
-title: "‘Going Out Tonight’ demo"
+title: ‘Going Out Tonight’ demo
 date: 2023-03-30
-tags: ["Alternative rock", "Demo", "Songwriting"]
-category: "Music"
+tags:
+  - Alternative rock
+  - Demo
+  - Songwriting
+categories:
+  - Music
 ---
 Now I’m back in the saddle! ‘Going Out Tonight’ is a tribute to our old selves. It’s a story about heading into town with friends in our early twenties, written as a mock King Brick song circa 2008. It’s an imagining the voice and tone of band’s early days.
 

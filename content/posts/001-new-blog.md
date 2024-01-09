@@ -1,9 +1,11 @@
 ---
-title: "I've started a New blog"
+title: I’ve started a new blog
 date: 2023-03-15
-tags: ["Writing"]
-category: "General"
-slug: "new-blog"
+tags:
+  - Writing
+categories:
+  - Life
+slug: new-blog
 ---
 Welcome to my new blog. I’m Jack, a musician and software engineer. I live in Leicester in the UK.
 

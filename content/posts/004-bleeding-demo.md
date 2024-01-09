@@ -1,8 +1,12 @@
 ---
-title: "‘Bleeding’ demo"
+title: ‘Bleeding’ demo
 date: 2023-03-27
-tags: ["Alternative rock", "Demo", "Songwriting"]
-category: "Music"
+tags: 
+  - Alternative rock
+  - Demo
+  - Songwriting
+categories:
+  - Music
 ---
 I’ve written my first song of 2023, after a bit of a dry patch. ‘Bleeding’ is a love song about illness and care, and goes out to my amazing girlfriend.
 
